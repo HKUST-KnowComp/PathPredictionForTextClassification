@@ -1,0 +1,12 @@
+.idea
+.vscode
+
+*.zip
+.DS_Store
+*.pyc
+__pycache__
+
+logs
+data
+liblinear
+
